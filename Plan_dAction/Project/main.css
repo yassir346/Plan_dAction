@@ -51,8 +51,9 @@
     width: 75%;
 }
 
-.form{
+#form{
     border: 1px solid red;
     display: flex;
     justify-content: center;
+    display: none;
 }
